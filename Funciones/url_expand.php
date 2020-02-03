@@ -1,4 +1,7 @@
 <?php
+
+//solo prueba de Diego para github desktop
+
 function ger_origenal_url($url)
 {
     $ch = curl_init($url);
